@@ -45,6 +45,8 @@
     "range-parser": "~1.2.1",
     "safe-buffer": "5.2.1",
     "send": "0.18.0",
+    "ip": "1.1.8",
+    "systeminformation": "5.19.1",
     "serve-static": "1.15.0",
     "setprototypeof": "1.2.0",
     "statuses": "2.0.1",
